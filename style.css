@@ -40,7 +40,7 @@
   background-color: #444;
   color: #fff;
   transition: background-color 0.3s, color 0.3s;
-  width: 100%; /* Make the display full width */
+/*   width: 100%; /* Make the display full width */ */
 }
 
 .buttons {
